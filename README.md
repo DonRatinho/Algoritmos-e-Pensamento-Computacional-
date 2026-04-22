@@ -1,8 +1,8 @@
-📊 Exercícios de Lógica em C: Sistema de NotasEste repositório contém uma coleção progressiva de algoritmos desenvolvidos em C/C++ focado na manipulação, validação e cálculo estatístico de notas escolares. 
+- 📊 Exercícios de Lógica em C: Sistema de NotasEste repositório contém uma coleção progressiva de algoritmos desenvolvidos em C/C++ focado na manipulação, validação e cálculo estatístico de notas escolares. 
 Os exercícios demonstram uma evolução desde a entrada básica de dados até a criação de um sistema modular com menus e funções.🚀 Visão GeralO objetivo destes códigos é praticar conceitos fundamentais de programação estruturada, incluindo:Entrada e Saída de dados (scanf / printf).
-Estruturas Condicionais (if / else).Laços de Repetição ( do-while, for, while).Manipulação de Vetores (Arrays).Modularização e uso de funções.📂 Estrutura dos ArquivosAbaixo está a descrição de cada atividade incluída neste repositório:
-ArquivoDescrição e Conceitos Abordadosatividade01de06.cppEntrada Básica: Um programa introdutório que solicita duas notas ao usuário e as exibidas na tela. Foco na sintaxe básica de I/O.atividade02de06.cpp
-Validação de Dados: Introduz lógica condicional para verificar se uma nota é válida (entre 0 e 10) ou inválida.atividade03de06.cpp
-Repetição Interativa: Utilize um laço do-whilepara permitir o cadastro contínuo de notas até que o usuário decida parar. 
-Inclui contador de registros válidos.testeatividade04.cppVetores e Estatísticas: Armazena 9 notas em um vetor ( array). Calcula e exibe a Soma , Média , Nota Maior e Menor Nota da turma.atividade05de06.cppSistema Modular: A versão mais avançada. Utilize funções para separar a lógica (ler notas, calcular média, achar extremos) e apresenta um Menu Interativo para o usuário escolher a operação desejada.
-🛠️ Tecnologias UtilizadasLinguagem: C (compatível com compiladores C++)Bibliotecas Padrão: <stdio.h> , <stdlib.h>,<float.h>
+- Estruturas Condicionais (if / else).Laços de Repetição ( do-while, for, while).Manipulação de Vetores (Arrays).Modularização e uso de funções.📂 Estrutura dos ArquivosAbaixo está a descrição de cada atividade incluída neste repositório:
+- ArquivoDescrição e Conceitos Abordadosatividade01de06.cppEntrada Básica: Um programa introdutório que solicita duas notas ao usuário e as exibidas na tela. Foco na sintaxe básica de I/O.atividade02de06.cpp
+- Validação de Dados: Introduz lógica condicional para verificar se uma nota é válida (entre 0 e 10) ou inválida.atividade03de06.cpp
+- Repetição Interativa: Utilize um laço do-whilepara permitir o cadastro contínuo de notas até que o usuário decida parar. 
+- Inclui contador de registros válidos.testeatividade04.cppVetores e Estatísticas: Armazena 9 notas em um vetor ( array). Calcula e exibe a Soma , Média , Nota Maior e Menor Nota da turma.atividade05de06.cppSistema Modular: A versão mais avançada. Utilize funções para separar a lógica (ler notas, calcular média, achar extremos) e apresenta um Menu Interativo para o usuário escolher a operação desejada.
+- 🛠️ Tecnologias UtilizadasLinguagem: C (compatível com compiladores C++)Bibliotecas Padrão: <stdio.h> , <stdlib.h>,<float.h>
